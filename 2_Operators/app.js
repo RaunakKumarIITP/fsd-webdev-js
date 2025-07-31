@@ -11,3 +11,16 @@ console.log(a*b);
 console.log(a/b);
 console.log(a%c);
 console.log(a**c);
+
+
+// Comparison operator
+//  >    <    >=   <=  ==    ===
+
+// Logical Operator
+//  && || !
+
+// Assignment Operator
+//  =  +=  -= ....  
+
+
+
